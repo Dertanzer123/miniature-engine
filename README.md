@@ -12,8 +12,6 @@
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
 - [Usage](#-usage)
-- [Subprojects](#-subprojects)
-    - [Ray Tracing in One Weekend](#-ray-tracing-in-one-weekend)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -45,10 +43,6 @@ ShaderEngine/
 ---
 
 ## 🛠 Usage
-
----
-
-## 📌 Subprojects
 
 ---
 
