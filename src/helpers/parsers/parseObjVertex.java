@@ -1,10 +1,9 @@
 package src.helpers.parsers;
 
 import src.helpers.objects.vector3;
-import src.interfaces.VertexParser;
+import src.interfaces.helperInterfaces.VertexParser;
 
 import java.io.BufferedReader;
-import java.io.File;
 import java.util.ArrayList;
 
 public class parseObjVertex implements VertexParser {

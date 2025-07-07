@@ -2,11 +2,10 @@ package src.helpers.parsers;
 
 import src.helpers.objects.triangle;
 import src.helpers.objects.vector3;
-import src.interfaces.TriangleParser;
-import src.interfaces.VertexParser;
+import src.interfaces.helperInterfaces.TriangleParser;
+import src.interfaces.helperInterfaces.VertexParser;
 
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 

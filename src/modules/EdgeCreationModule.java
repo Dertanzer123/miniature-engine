@@ -3,11 +3,12 @@ package src.modules;
 import src.helpers.objects.Edge2;
 import src.helpers.objects.plane;
 import src.helpers.objects.triangle;
+import src.interfaces.moduleInterfaces.edgecreationmodule;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class EdgeCreationModule {
+public class EdgeCreationModule implements edgecreationmodule {
     EdgeCreationModule() {
     }
 

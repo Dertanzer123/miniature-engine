@@ -1,7 +1,8 @@
 package src.modules;
 
 import src.helpers.objects.triangle;
-import src.interfaces.TriangleParser;
+import src.interfaces.helperInterfaces.TriangleParser;
+import src.interfaces.moduleInterfaces.parsermodule;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -9,7 +10,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class ParserModule {
+public class ParserModule implements parsermodule {
     public TriangleParser triangleParser;
 
     public ParserModule() {    }

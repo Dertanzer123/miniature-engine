@@ -1,8 +1,8 @@
 package src.helpers.objects;
 
 public class Edge2 {
-    vector2 v1;
-    vector2 v2;
+    public vector2 v1;
+    public vector2 v2;
     Edge2(vector2 v1, vector2 v2) {
         this.v1 = v1;
         this.v2 = v2;
